@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Nesta aula, foi aprendido o uso de props nos componentes!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
